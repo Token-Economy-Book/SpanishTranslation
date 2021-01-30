@@ -9,7 +9,7 @@ Production: Caroline Helbing<br>
 Translators: Sebastian Heredia Querro, Martin Bertoni, Guido Aiassa, Jorge Villalba, Agustina Pérez Comenale
 
 # Versions
-Spaish Translation: https://github.com/Token-Economy-Book/SpanishTranslation/wiki (work in progress)<br>
+Spanish Translation: https://github.com/Token-Economy-Book/SpanishTranslation/wiki (work in progress)<br>
 Other languages: https://github.com/Token-Economy-Book/
 
 # Licence
