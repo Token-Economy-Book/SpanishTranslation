@@ -1,16 +1,17 @@
 # LA ECONOMÍA DEL TOKEN: Cómo la Web3 reinventa la Internet <br>
 Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
+
+* Spanish Translation: https://github.com/Token-Economy-Book/SpanishTranslation/wiki (work in progress)<br>
+* Other languages: https://github.com/Token-Economy-Book/
+
+# Imprint
 Author: Shermin Voshmgir <br>
 Publisher: Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
 Translators: Sebastian Heredia Querro, Martin Bertoni, Guido Aiassa, Jorge Villalba, Agustina Pérez Comenale
-
-# Versions
-Spanish Translation: https://github.com/Token-Economy-Book/SpanishTranslation/wiki (work in progress)<br>
-Other languages: https://github.com/Token-Economy-Book/
 
 # Licence
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
