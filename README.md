@@ -5,7 +5,7 @@ La primera edición fue publicada por BlockchainHub Berlin https://blockchainhub
 * Spanish translation: https://github.com/Token-Economy-Book/SpanishTranslation/wiki
 * Other languages: https://github.com/Token-Economy-Book/
 
-# Imprint
+# Edición
 Autora: Shermin Voshmgir <br>
 Editor: Token Kitchen  <br>
 Alte Schönhauserstrasse 9, 10119 Berlin  <br>
