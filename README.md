@@ -12,7 +12,7 @@ Alte Schönhauserstrasse 9, 10119 Berlin  <br>
 http://token.kitchen <br>
 Diseño: Justyna Zubrycka  <br>
 Producción: Caroline Helbing <br>
-Translators: Sebastian Heredia Querro, Martin Bertoni, Guido Aiassa, Jorge Villalba, Agustina Pérez Comenale
+Translators: Sebastián Heredia Querro, Martín Bertoni, Guido Aiassa, Agustina Perez Comenale, Fernanda López Pujato
 
 # Licence
 Copyleft 2020, Shermin Voshmgir: Creative Commons - CC BY-NC-SA: Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar contenido sobre el material en cualquier medio o formato sólo para fines no comerciales, y siempre y cuando se atribuya la autoría al creador. 
